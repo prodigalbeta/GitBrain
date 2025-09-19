@@ -22,5 +22,6 @@
 - [[The Chore Coat]]
 ### Lower Body
 - [[The Sweatpants]]
-
-
+## Todos
+- [ ] Create Logo #AtelierNull
+- [ ] Create Wordmark #AtelierNull 

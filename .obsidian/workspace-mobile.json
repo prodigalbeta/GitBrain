@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "AtelierNull/Brand Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Brand Notes"
             }
           }
         ]
@@ -86,7 +86,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "f06619dcba712478",
@@ -173,8 +174,11 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Home.md",
+    "Daily/2025-09-19.md",
     "AtelierNull/Brand Notes.md",
     "Business/General Business Notes.md",
+    "Untitled Kanban.md",
+    "Daily",
     "Business",
     "Excalidraw/Drawing 2025-09-17 15.55.37.excalidraw.md",
     "AtelierNull/Pieces/Apparel/The T-Shirt.md",

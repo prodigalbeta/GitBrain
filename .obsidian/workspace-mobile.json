@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fc7a1d6943d9731b",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f1ba05fecade64fc",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-09-17 15.55.37.excalidraw.md"
+                "file": "Business/General Business Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-17 15.55.37.excalidraw"
+              "icon": "lucide-file",
+              "title": "General Business Notes"
             }
           }
         ]
@@ -97,7 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "AtelierNull/Pieces/Accessories/The Crossbody.md",
+            "file": "Business/General Business Notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -154,6 +156,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,14 +171,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f1ba05fecade64fc",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Business/General Business Notes.md",
+    "Business",
+    "Excalidraw/Drawing 2025-09-17 15.55.37.excalidraw.md",
     "AtelierNull/Pieces/Apparel/The T-Shirt.md",
     "AtelierNull/Brand Notes.md",
     "AtelierNull/Pieces/Apparel/The Sweatpants.md",
     "AtelierNull/Pieces/Apparel/The Chore Coat.md",
     "Images/IMG_0003.webp",
-    "Excalidraw/Drawing 2025-09-17 15.55.37.excalidraw.md",
     "Images",
     "Images/IMG_0002.jpeg",
     "Excalidraw",

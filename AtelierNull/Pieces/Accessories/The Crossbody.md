@@ -1,0 +1,19 @@
+## Details
+- Denim
+- Length and width of iPad Pro
+- Thickness of Sanderson’s “Wind and Truth” or DFW “Infinite Jest”
+- Pockets
+	- Inner pocket for iPad
+	- Outer pocket
+		- Cigarette/pen pocket
+- Dimensions
+	- 4in thick
+	- 8in wide
+	- 11in tall
+	- 5/8in seam allowance
+- Lined
+	- Satin suit lining?
+- Seatbelt webbing for strap
+	- Cobra Clip on front side strap
+- Open top
+	- No zipper

@@ -1,24 +1,22 @@
 {
   "main": {
-    "id": "857536e74895bee1",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "bc88925be331b946",
+        "id": "fc7a1d6943d9731b",
         "type": "tabs",
         "children": [
           {
-            "id": "51fe23781881a5a2",
+            "id": "f1ba05fecade64fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "AtelierNull/Brand Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2025-09-17 15.55.37.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Brand Notes"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-17 15.55.37.excalidraw"
             }
           }
         ]
@@ -99,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "AtelierNull/Brand Notes.md",
+            "file": "AtelierNull/Pieces/Accessories/The Crossbody.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "AtelierNull/Brand Notes.md",
+            "file": "AtelierNull/Pieces/Accessories/The Crossbody.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -132,7 +130,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "AtelierNull/Brand Notes.md",
+            "file": "AtelierNull/Pieces/Accessories/The Crossbody.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -170,9 +168,23 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "321f86a62b3b9c77",
+  "active": "f1ba05fecade64fc",
   "lastOpenFiles": [
+    "AtelierNull/Pieces/Apparel/The T-Shirt.md",
     "AtelierNull/Brand Notes.md",
+    "AtelierNull/Pieces/Apparel/The Sweatpants.md",
+    "AtelierNull/Pieces/Apparel/The Chore Coat.md",
+    "Images/IMG_0003.webp",
+    "Excalidraw/Drawing 2025-09-17 15.55.37.excalidraw.md",
+    "Images",
+    "Images/IMG_0002.jpeg",
+    "Excalidraw",
+    "Excalidraw/Drawing 2025-09-17 15.35.34.excalidraw.md",
+    "AtelierNull/Pieces/Accessories/The Crossbody.md",
+    "AtelierNull/Pieces/Apparel",
+    "AtelierNull/Pieces/Accessories",
+    "AtelierNull/Pieces",
+    "AtelierNull/Pieces/Accessories/The Tote.md",
     "AtelierNull"
   ]
 }

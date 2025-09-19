@@ -4,12 +4,12 @@
 ## Brand Identity
 ## Starting Pieces
 ### Accessories
-- The Crossbody
-- The Tote
+- [[The Crossbody]]
+- [[The Tote]]
 ### Upper Body
-- The T-Shirt
-- The Chore Coat
+- [[The T-Shirt]]
+- [[The Chore Coat]]
 ### Lower Body
-- The Sweatpants
+- [[The Sweatpants]]
 
 

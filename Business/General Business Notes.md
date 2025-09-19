@@ -10,8 +10,8 @@
 	- [Wave](https://www.waveapps.com/)
 ## Storefronts
 
-| Storefront  | Monthly Rate            | PI Tracking |
-| ----------- | ----------------------- | ----------- |
-| Shopify     | $40 (or $5 for Starter) | ✅           |
-| Squarespace | $36                     | ✅           |
-|             |                         |             |
+| Storefront  | Monthly Rate            | PI Tracking | Payment Processing Rates |
+| ----------- | ----------------------- | ----------- | ------------------------ |
+| Shopify     | $40 (or $5 for Starter) | ✅           | 2.9% + $0.30             |
+| Squarespace | $36                     | ✅           | 2.9% + $0.30             |
+|             |                         |             |                          |

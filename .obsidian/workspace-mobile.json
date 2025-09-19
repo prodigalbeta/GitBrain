@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AtelierNull/Brand Notes.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brand Notes"
+              "title": "Home"
             }
           }
         ]
@@ -86,8 +86,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "f06619dcba712478",
@@ -173,11 +172,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home.md",
+    "AtelierNull/Brand Notes.md",
     "Business/General Business Notes.md",
     "Business",
     "Excalidraw/Drawing 2025-09-17 15.55.37.excalidraw.md",
     "AtelierNull/Pieces/Apparel/The T-Shirt.md",
-    "AtelierNull/Brand Notes.md",
     "AtelierNull/Pieces/Apparel/The Sweatpants.md",
     "AtelierNull/Pieces/Apparel/The Chore Coat.md",
     "Images/IMG_0003.webp",

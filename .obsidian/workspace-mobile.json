@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "AtelierNull/Brand Notes.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -86,8 +86,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "f06619dcba712478",

@@ -4,6 +4,7 @@
 ## Brand Identity
 - Atelier always written in a serif font
 	- Preferably in red
+	- Instrument Serif
 - (null) always written in a sans font
 	- always black
 - Tagline

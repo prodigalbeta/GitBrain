@@ -1,6 +1,8 @@
 ## Active Research
 - [[General Business Notes]]
 - [[Brand Notes]]
+## Ongoing Projects
+- [[Raspberry Pi Slablet]]
 ## Journaling
 ```button
 name Open Daily Note

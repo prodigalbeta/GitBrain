@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "AtelierNull/Pieces/Apparel/The T-Shirt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "The T-Shirt"
             }
           }
         ]
@@ -86,7 +86,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "f06619dcba712478",
@@ -172,10 +173,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Daily/2025-09-20.md",
     "Home.md",
+    "AtelierNull/Pieces/Apparel/The T-Shirt.md",
     "Projects/Raspberry Pi Slablet.md",
     "Projects",
+    "Daily/2025-09-20.md",
     "AtelierNull/Brand Notes.md",
     "Daily/2025-09-19.md",
     "Business/General Business Notes.md",
@@ -183,7 +185,6 @@
     "Daily",
     "Business",
     "Excalidraw/Drawing 2025-09-17 15.55.37.excalidraw.md",
-    "AtelierNull/Pieces/Apparel/The T-Shirt.md",
     "AtelierNull/Pieces/Apparel/The Sweatpants.md",
     "AtelierNull/Pieces/Apparel/The Chore Coat.md",
     "Images/IMG_0003.webp",

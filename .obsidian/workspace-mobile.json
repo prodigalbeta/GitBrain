@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AtelierNull/Pieces/Apparel/The T-Shirt.md",
+                "file": "Projects/The Front 9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The T-Shirt"
+              "title": "The Front 9"
             }
           }
         ]
@@ -173,7 +173,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "TempWork/9-26-25 ToDo List.md",
+    "Projects/The Front 9.md",
     "Home.md",
+    "TempWork",
     "AtelierNull/Pieces/Apparel/The T-Shirt.md",
     "Projects/Raspberry Pi Slablet.md",
     "Projects",

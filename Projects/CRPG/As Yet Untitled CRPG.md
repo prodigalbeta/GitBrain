@@ -11,3 +11,4 @@
 - [[Ultima Series]]
 - [[Baldur’s Gate Series]]
 - [[Shadowrun]]
+- [[Daggerfall]]

@@ -3,6 +3,7 @@
 - [[Brand Notes]]
 ## Ongoing Projects
 - [[Raspberry Pi Slablet]]
+- [[As Yet Untitled CRPG]]
 ## Journaling
 ```button
 name Open Daily Note

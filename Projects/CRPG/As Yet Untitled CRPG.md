@@ -6,6 +6,7 @@
 - [[Ultraviolet Grasslands]]
 - [[Mothership]]
 - [[Shadowrun]]
+- [[Cyberpunk]]
 ## Video Game RPGs
 - [[Ultima Series]]
 - [[Baldur’s Gate Series]]

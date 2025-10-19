@@ -3,7 +3,14 @@
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
-  "fileMenu": [],
+  "fileMenu": [
+    {
+      "id": "obsidian-excalidraw-plugin:convert-to-excalidraw",
+      "icon": "lucide-pen-tool",
+      "name": "Excalidraw: Convert markdown note to Excalidraw Drawing",
+      "mode": "any"
+    }
+  ],
   "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],

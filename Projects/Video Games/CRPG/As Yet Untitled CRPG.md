@@ -1,4 +1,3 @@
-# Game Document
 ## Intro
 - A fantascience CRPG that harkens back to the classic era of Ultima with 2D isometric graphics and tactical, turn-based combat on an isometric hex grid
 ## Features
@@ -20,12 +19,13 @@
 - The decaying, dead body of Gaia floating in rim space
 	- Uppity God-Emperor is trying to revive Gaia and turn her into a living warship to bring rim space under his rule
 - 4 rim space systems not including Gaia
+## [[UX]]
+
 # Research
 ## TTRPGs to Research
 - [[Mythic Bastionland]]
 - [[Ultraviolet Grasslands]]
 - [[Mothership]]
-- [[Shadowrun]]
 - [[Cyberpunk]]
 - [[Ironsworn: Starforged]]
 ## Video Game RPGs

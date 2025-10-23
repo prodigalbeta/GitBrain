@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/CRPG/As Yet Untitled CRPG.md",
+                "file": "Projects/Video Games/CRPG/As Yet Untitled CRPG.md",
                 "mode": "source",
                 "source": false
               },
@@ -86,7 +86,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "f06619dcba712478",
@@ -98,7 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Home.md",
+            "file": "Projects/Video Games/CRPG/As Yet Untitled CRPG.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,10 +170,26 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "321f86a62b3b9c77",
   "lastOpenFiles": [
+    "Projects/Video Games/CRPG/Research/Other Games and Media/Movies and LIterature",
+    "Projects/Video Games/CRPG/Research/Other Games and Media/Video Games",
+    "Projects/Video Games/CRPG/Research/Other Games and Media/TTRPGs",
+    "Projects/Video Games/CRPG/Research/Engine Architecture",
+    "Projects/Video Games/CRPG/Research/Other Games and Media",
+    "Projects/Video Games/CRPG/Game Design.md",
+    "Projects/Video Games/CRPG/Research/Engine Architecture/Game Engine Architecture.md",
+    "Projects/Video Games/CRPG/UX.md",
+    "Projects/Video Games/CRPG/As Yet Untitled CRPG.md",
+    "UX/UI.md",
+    "UX",
     "Home.md",
     "Projects/CRPG/As Yet Untitled CRPG.md",
+    "Projects/Video Games/CRPG/Research/Other Games and Media/Video Games/Baldur’s Gate Series.md",
+    "Projects/Video Games/CRPG/Research",
+    "Projects/Video Games/The Front 9.md",
+    "Projects/Video Games/CRPG",
+    "Projects/Video Games",
     "Game Engine Architecture.md",
     "Images/Pasted image 20251016114146.jpg",
     "Untitled.md",
@@ -192,22 +209,7 @@
     "Work/Flash Sale CRM.md",
     "Work/2025 Q4 DigiMerch Todos.md",
     "Work/9-26-25 ToDo List.md",
-    "Work/Game Day LP.md",
-    "Work/Halloween LP.md",
-    "Work/Flash Sale Inventory Prep.md",
-    "Work/Gift Guide.md",
-    "Work",
-    "AtelierNull/Pieces/Apparel/The T-Shirt.md",
-    "Projects/Raspberry Pi Slablet.md",
-    "Projects",
-    "AtelierNull/Brand Notes.md",
-    "Daily",
-    "Business",
     "Images/IMG_0003.webp",
-    "Images",
-    "Images/IMG_0002.jpeg",
-    "Excalidraw",
-    "AtelierNull/Pieces/Apparel",
-    "AtelierNull/Pieces/Accessories"
+    "Images/IMG_0002.jpeg"
   ]
 }
